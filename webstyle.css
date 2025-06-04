@@ -1,0 +1,146 @@
+body{
+    overflow-x: hidden;
+    background-color: aqua;
+    margin: 0%;
+}
+nav{
+
+    width: 1400px;
+    background-color: black;
+    color: azure;
+    background-size: cover;
+    padding: 3%;
+}
+
+a:link{
+    color:azure;
+
+
+}
+
+a:hover{
+    color: aqua;
+}
+
+a:visited{
+    color: azure;
+}
+
+a{
+    font-size: 22;
+    padding: 9%
+}
+
+h1#name{
+    font-family: "Trirong", serif;
+    font-weight: bold;
+    font-size: 65;
+    position: relative;
+    left: 900px;
+    top: 150px;
+}
+
+h1.about{
+    font-family: "Trirong", serif;
+    font-weight: bold;
+    font-size: 65;
+    position: relative;
+    left: 900px;
+    top: 300px;
+    
+}
+
+h1.portfolio{
+    font-family: "Trirong", serif;
+    font-weight: bold;
+    font-size: 65;
+    position: relative;
+    left: 900px;
+    top: 450px;
+}
+
+h1.socials{
+    font-family: "Trirong", serif;
+    font-weight: bold;
+    font-size: 65;
+    position: relative;
+    left: 900px;
+    top: 500px;
+}
+
+h1.contact{
+    font-family: "Trirong", serif;
+    font-weight: bold;
+    font-size: 65;
+    position: relative;
+    left: 900px;
+    top: 600px;
+}
+
+#intro{
+    font-family: "Trirong", serif;
+    font-weight: bold;
+    font-size: 25;
+    text-wrap: break-word;
+    position: relative;
+    left: 900px;
+    top: 170px;
+
+}
+
+p.about{
+    font-family: "Trirong", serif;
+    font-weight: bold;
+    font-size: 25;
+    text-wrap: break-word;
+    position: relative;
+    left: 900px;
+    top: 330px;
+    width: 500px;
+    word-wrap: normal;
+}
+
+
+ul.portfolio{
+    font-family: "Trirong", serif;
+    font-weight: bold;
+    font-size: 25;
+    text-wrap: break-word;
+    position: relative;
+    left: 890px;
+    top: 370px;
+    width: 500px;
+    word-wrap: normal;
+
+}
+
+div.socials{
+    font-family: "Trirong", serif;
+    font-weight: bold;
+    font-size: 25;
+    text-wrap: break-word;
+    position: relative;
+    left: 890px;
+    top: 520px;
+    width: 500px;
+    word-wrap: normal;
+}
+
+p.socials{
+    font-family: "Trirong", serif;
+    font-weight: bold;
+    font-size: 25;
+    text-wrap: break-word;
+    position: relative;
+    left: 900px;
+    top: 620px;
+    width: 500px;
+    word-wrap: normal;
+}
+
+#selfphoto{
+    position: fixed; 
+    top: 200px;
+    height: 520px;
+    left: 200px;
+}
